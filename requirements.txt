@@ -1,0 +1,9 @@
+transformers
+torch
+flask
+pandas
+openai
+parler-tts
+piper-tts
+neon-memory
+maya-os
